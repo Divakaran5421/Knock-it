@@ -1,11 +1,11 @@
 /*  ---------------------------------------------------
-    Template Name: Manup
-    Description: Manup Event HTML Template
-    Author: Colorlib
-    Author URI: http://colorlib.com
+    Template Name: Knock IT
+    Description: Knock-IT Event HTML Template
+    Author: Divakaran
     Version: 1.0
-    Created: Colorlib
+    Created: Divakaran
 ---------------------------------------------------------  */
+
 
 'use strict';
 
