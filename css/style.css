@@ -81,7 +81,10 @@ ol {
 
 .section-title {
 	text-align: center;
-	margin-bottom: 52px;
+	margin-bottom: 40px;
+}
+.srmv{
+	
 }
 
 .section-title h2 {
@@ -148,6 +151,7 @@ ol {
 	font-size: 22px;
 	font-weight: 600;
 	padding: 12px 40px;
+	margin-bottom: 10px;
 	color: #ffffff;
 	text-align: center;
 	border-radius: 50px;
@@ -373,6 +377,7 @@ ol {
 	color: #f44949;
 	text-transform: uppercase;
 	letter-spacing: 2px;
+	font-weight: bold;
 }
 
 .hero-section .hero-text h2 {
@@ -382,6 +387,21 @@ ol {
 	font-weight: 600;
 	margin-top: 16px;
 	margin-bottom: 35px;
+}
+.hero-section .hero-text h4 {
+	font-size:26px;
+	color: #ffffff;
+	
+	font-weight: 600;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+.hero-section .hero-text h5 {
+	font-size:20px;
+	color: #ffffff;
+	font-weight: 600;
+	margin-top: 0px;
+	margin-bottom: px;
 }
 #knock{
 	font-size: 70px;
@@ -453,6 +473,24 @@ ol {
 	line-height: 30px;
 }
 
+/*
+prze section
+*/
+.prize{
+	background-image: -o-linear-gradient(330deg, #ee8425 0%, #f9488b 100%), -o-linear-gradient(330deg, #ee8425 0%, #f9488b 100%);
+	background-image: linear-gradient(120deg, #ee8425 0%, #f9488b 100%), linear-gradient(120deg, #ee8425 0%, #f9488b 100%)
+	
+}
+.prize h1{
+	padding: 40px 50px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: #ffffff;
+	text-align: center;
+	border-style: groove 2px 2px black;
+	
+}
+
+
 /*---------------------
   Home About Section
 -----------------------*/
@@ -480,7 +518,7 @@ ol {
 	color: #171822;
 	font-size: 40px;
 	font-weight: 700;
-	margin-bottom: 32px;
+	margin-bottom: 20px;
 }
 
 .ha-text p {
@@ -659,9 +697,9 @@ ol {
 }
 
 .schedule-tab .st-content:hover {
-	-webkit-box-shadow: 3px 12px 30px rgba(23, 24, 34, 0.05);
-	box-shadow: 3px 12px 30px rgba(23, 24, 34, 0.05);
-	border: 1px solid transparent;
+	-webkit-box-shadow: 3px 12px 100px rgba(23, 24, 34, 0.05);
+	box-shadow: 6px 12px 5px linear-gradient(120deg, #ee8425 0%, #f9488b 100%), linear-gradient(120deg, #ee8425 0%, #f9488b 100%);
+	border: 6px solid transparent;
 }
 
 .schedule-tab .st-content .sc-pic {
